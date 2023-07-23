@@ -6,6 +6,7 @@ import {
   FaBriefcase,
   FaGraduationCap,
   FaCode,
+  FaAward,
 } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
@@ -132,13 +133,13 @@ export const stats = [
     title: 'Completed <br /> Projects',
   },
 
-  /*{
+  {
     id: 3,
-    no: '81+',
-    title: 'Happy <br /> Customers',
+    no: '3+',
+    title: 'Certification <br /> Courses',
   },
 
-  {
+  /*{
     id: 4,
     no: '53+',
     title: ' Awards <br /> Won',
@@ -174,6 +175,33 @@ export const resume = [
   },*/
 
   {
+    id: 1,
+    category: 'certifications',
+    icon: <FaAward />,
+    year: 'Feb 1, 2023',
+    title: 'Python Programming',
+    desc: 'Issued by Codetantra',
+  },
+
+  {
+    id: 2,
+    category: 'certifications',
+    icon: <FaAward />,
+    year: 'Jan - Mar 2023',
+    title: 'DSA using Python <span>consolidated score: 66%</span>',
+    desc: 'Issued by NPTEL',
+  },
+
+  {
+    id: 3,
+    category: 'certifications',
+    icon: <FaAward />,
+    year: 'May 17, 2023',
+    title: 'Responsive Web Design',
+    desc: 'Issued by freeCodeCamp',
+  },
+
+  {
     id: 4,
     category: 'education',
     icon: <FaGraduationCap />,
@@ -199,6 +227,8 @@ export const resume = [
     title: 'Schooling <span> St.Joseph`s English Medium High School </span>',
     desc: 'Primary Education, CGPA : 10',
   },
+
+  
 ];
 
 export const skills = [

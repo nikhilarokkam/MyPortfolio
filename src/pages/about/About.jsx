@@ -52,12 +52,12 @@ const About = () => {
             <div className='separator'></div>
 
             <section className='resume'>
-                <h3 className='section__subtitle subtitle__center'>Experience & Education</h3>
+                <h3 className='section__subtitle subtitle__center'>Certifications & Education</h3>
 
                 <div className='resume__container grid'>
                     <div className='resume__data'>
                         {resume.map((val)=>{
-                            if(val.category==='experience'){
+                            if(val.category==='certifications'){
                                 return <ResumeItem key={val.id} {...val} />
                             }
                         })}
