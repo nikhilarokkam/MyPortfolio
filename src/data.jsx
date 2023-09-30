@@ -207,7 +207,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2020-2024',
     title: 'Bachelor of Technology <span> Anil Neerukonda Institute of Technology & Sciences </span>',
-    desc: 'Computer Science Engineering, CGPA : 8.96 (current)',
+    desc: 'Computer Science Engineering, CGPA : 9.00 (current)',
   },
 
   {
@@ -216,7 +216,7 @@ export const resume = [
     icon: <FaGraduationCap />,
     year: '2018-2020',
     title: 'Intermediate <span> Sri Chaitanya Junior College </span>',
-    desc: 'Maths, Physics, Chemistry, CGPA : 9.9',
+    desc: 'Maths, Physics, Chemistry, CGPA : 9.94',
   },
 
   {
