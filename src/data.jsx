@@ -10,11 +10,11 @@ import {
 } from 'react-icons/fa';
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
-import Work1 from './assets/project-1.jpeg';
+import Work1 from './assets/project-4.jpeg';
 import Work2 from './assets/project-2.jpg';
-import Work3 from './assets/project-3.jpeg';
-import Work4 from './assets/project-4.jpeg';
-import Work5 from './assets/project-5.jpg';
+import Work3 from './assets/project-5.jpeg';
+import Work4 from './assets/project-1.jpeg';
+import Work5 from './assets/project-3.jpg';
 import Work6 from './assets/project-6.jpg';
 
 import Theme1 from './assets/purple.png';
@@ -313,12 +313,12 @@ export const portfolio = [
   {
     id: 2,
     img: Work2,
-    title: 'Automated University Time Table Management System',
+    title: 'Time Table Management System',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Period Scheduling',
+        desc: 'Automated University Time Table Management System',
       },
       {
         icon: <FiUser />,
@@ -341,12 +341,12 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'Personal Expense Manager with Visual Analytics',
+    title: 'Expense Manager',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Expense Manager',
+        desc: 'Personal Expense Manager with Visual Analytics',
       },
       {
         icon: <FiUser />,
