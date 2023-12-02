@@ -285,27 +285,27 @@ export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: 'Mini-Facebook',
+    title: 'Puzzle Application',
     details: [
       {
         icon: <FiFileText />,
-        title: 'Project : ',
-        desc: 'Social-Media Website',
+        title: 'Project: ',
+        desc: 'Interactive Puzzle Application',
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'College Project',
+        title: 'Client: ',
+        desc: 'Academic Project',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'PHP and MySQL',
+        title: 'Language: ',
+        desc: 'HTML, CSS, JavaScript, PHP, MySQL',
       },
       {
         icon: <FiExternalLink />,
-        title: 'GitHub : ',
-        desc: 'https://github.com/nikhilarokkam/WT-LAB-EXPERIMENTS',
+        title: 'Live: ',
+        desc: 'http://puzzleapp.infinityfreeapp.com/',
       },
     ],
   },
@@ -313,27 +313,27 @@ export const portfolio = [
   {
     id: 2,
     img: Work2,
-    title: 'NodeJS CRUD Application',
+    title: 'Automated University Time Table Management System',
     details: [
       {
         icon: <FiFileText />,
-        title: 'Project : ',
-        desc: 'Department Management System',
+        title: 'Project: ',
+        desc: 'Period Scheduling',
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'College Project',
+        title: 'Client: ',
+        desc: 'Academic Project',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'NodeJS and MySQL',
+        title: 'Language: ',
+        desc: 'NodeJS, Express.js, MySQL',
       },
       {
         icon: <FiExternalLink />,
-        title: 'GitHub : ',
-        desc: 'https://github.com/nikhilarokkam/WT-LAB-EXPERIMENTS',
+        title: 'GitHub: ',
+        desc: 'https://github.com/nikhilarokkam/Automated-University-TimeTable-Management-System',
       },
     ],
   },
@@ -341,110 +341,105 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'E-Commerce',
+    title: 'Personal Expense Manager with Visual Analytics',
     details: [
       {
         icon: <FiFileText />,
-        title: 'Project : ',
-        desc: 'Shopping Cart',
+        title: 'Project: ',
+        desc: 'Expense Manager',
       },
       {
         icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'College Project',
+        title: 'Client: ',
+        desc: 'Personal Project',
       },
       {
         icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'Flask and SQLAlchemy',
+        title: 'Language: ',
+        desc: 'React.js, Chart.js, Material-UI',
       },
       {
         icon: <FiExternalLink />,
-        title: 'GitHub : ',
-        desc: 'https://github.com/nikhilarokkam/WT-LAB-EXPERIMENTS',
+        title: 'Live: ',
+        desc: 'https://courageous-pastelito-59f7eb.netlify.app/',
       },
     ],
   },
 
-  {
-    id: 4,
-    img: Work4,
-    title: 'Puzzle Application',
-    details: [
-      {
-        icon: <FiFileText />,
-        title: 'Project : ',
-        desc: 'Interactive Puzzle',
-      },
-      {
-        icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Elitmus Pvt Limited',
-      },
-      {
-        icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'JS, PHP and MySQL',
-      },
-      {
-        icon: <FiExternalLink />,
-        title: 'Preview : ',
-        desc: 'puzzleapp.infinityfreeapp.com',
-      },
-    ],
-  },
+  // {
+  //   id: 4,
+  //   img: Work4,
+  //   title: 'Puzzle Application',
+  //   details: [
+  //     {
+  //       icon: <FiFileText />,
+  //       title: 'Project : ',
+  //       desc: 'Interactive Puzzle',
+  //     },
+  //     {
+  //       icon: <FiUser />,
+  //       title: 'Client : ',
+  //       desc: 'Elitmus Pvt Limited',
+  //     },
+  //     {
+  //       icon: <FaCode />,
+  //       title: 'Language : ',
+  //       desc: 'JS, PHP and MySQL',
+  //     },
+  //     {
+  //       icon: <FiExternalLink />,
+  //       title: 'Preview : ',
+  //       desc: 'puzzleapp.infinityfreeapp.com',
+  //     },
+  //   ],
+  // },
 
-  {
-    id: 5,
-    img: Work5,
-    title: 'Freelance Website',
-    details: [
-      {
-        title: 'Project : ',
-        desc: 'Website',
-      },
-      {
-        title: 'Client : ',
-        desc: 'College Project',
-      },
-      {
-        title: 'Language : ',
-        desc: 'MERN Stack',
-      },
-      {
-        title: 'GitHub : ',
-        desc: 'https://github.com/nikhilarokkam/WT-LAB-EXPERIMENTS',
-      },
-    ],
-  },
+  // {
+  //   id: 5,
+  //   img: Work5,
+  //   title: 'Freelance Website',
+  //   details: [
+  //     {
+  //       title: 'Project : ',
+  //       desc: 'Website',
+  //     },
+  //     {
+  //       title: 'Client : ',
+  //       desc: 'College Project',
+  //     },
+  //     {
+  //       title: 'Language : ',
+  //       desc: 'MERN Stack',
+  //     },
+  //     {
+  //       title: 'GitHub : ',
+  //       desc: 'https://github.com/nikhilarokkam/WT-LAB-EXPERIMENTS',
+  //     },
+  //   ],
+  // },
 
-  {
-    id: 6,
-    img: Work6,
-    title: 'Portfolio',
-    details: [
-      {
-        icon: <FiFileText />,
-        title: 'Project : ',
-        desc: 'Website',
-      },
-      {
-        icon: <FiUser />,
-        title: 'Client : ',
-        desc: 'Personal Website',
-      },
-      {
-        icon: <FaCode />,
-        title: 'Language : ',
-        desc: 'React',
-      },
-      /*{
-        icon: <FiExternalLink />,
-        title: 'Preview : ',
-        desc: 'www.dibble.com',
-      },*/
-    ],
-  },
+  // {
+  //   id: 6,
+  //   img: Work6,
+  //   title: 'Portfolio',
+  //   details: [
+  //     {
+  //       icon: <FiFileText />,
+  //       title: 'Project : ',
+  //       desc: 'Website',
+  //     },
+  //     {
+  //       icon: <FiUser />,
+  //       title: 'Client : ',
+  //       desc: 'Personal Website',
+  //     },
+  //     {
+  //       icon: <FaCode />,
+  //       title: 'Language : ',
+  //       desc: 'React',
+  //     },
+  //   ],
+  // },
 ];
 
 export const themes = [
