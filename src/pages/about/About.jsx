@@ -63,6 +63,15 @@ const About = () => {
                         })}
                     </div>
 
+                    <div className='resume__container grid'>
+                    <div className='resume__data'>
+                        {resume.map((val)=>{
+                            if(val.category==='experience'){
+                                return <ResumeItem key={val.id} {...val} />
+                            }
+                        })}
+                    </div>
+
                     <div className='resume__data'>
                         {resume.map((val)=>{
                             if(val.category==='education'){
