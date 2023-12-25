@@ -285,17 +285,17 @@ export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: 'Puzzle Application',
+    title: 'Mini Facebook',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Interactive Puzzle Application',
+        desc: 'Mini Facebook',
       },
       {
         icon: <FiUser />,
         title: 'Client: ',
-        desc: 'Academic Project',
+        desc: 'Personal Project',
       },
       {
         icon: <FaCode />,
@@ -304,8 +304,8 @@ export const portfolio = [
       },
       {
         icon: <FiExternalLink />,
-        title: 'Live: ',
-        desc: 'http://puzzleapp.infinityfreeapp.com/',
+        title: 'GitHub: ',
+        desc: 'https://github.com/nikhilarokkam/Mini-Facebook',
       },
     ],
   },
@@ -341,105 +341,106 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'Expense Manager',
+    title: 'MyShop Ecommerce Store',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Personal Expense Manager with Visual Analytics',
+        desc: 'Ecommerce Store',
       },
       {
         icon: <FiUser />,
         title: 'Client: ',
-        desc: 'Personal Project',
+        desc: 'Academic Project',
       },
       {
         icon: <FaCode />,
         title: 'Language: ',
-        desc: 'React.js, Chart.js, Material-UI',
+        desc: 'Flask, SQLAlchemy',
       },
       {
         icon: <FiExternalLink />,
+        title: 'GitHub: ',
+        desc: 'https://github.com/nikhilarokkam/MyShop-Ecommerce-Store',
+      },
+    ],
+  },
+
+  {
+    id: 4,
+    img: Work4,
+    title: 'Puzzle Application',
+    details: [
+      {
+        icon: <FiFileText />,
+        title: 'Project : ',
+        desc: 'Interactive Puzzle Application',
+      },
+      {
+        icon: <FiUser />,
+        title: 'Client : ',
+        desc: 'Academic Project',
+      },
+      {
+        icon: <FaCode />,
+        title: 'Language : ',
+        desc: 'HTML, CSS, JS, PHP, MySQL',
+      },
+      {
+        icon: <FiExternalLink />,
+        title: 'Live: ',
+        desc: 'http://puzzleapp.infinityfreeapp.com/',
+      },
+    ],
+  },
+
+  {
+    id: 5,
+    img: Work5,
+    title: 'WorkHive: Freelancing',
+    details: [
+      {
+        title: 'Project : ',
+        desc: 'Freelancing Platform',
+      },
+      {
+        title: 'Client : ',
+        desc: 'Academic Project',
+      },
+      {
+        title: 'Language : ',
+        desc: 'MongoDB, Express.js, ReactJS, Node.js',
+      },
+      {
+        title: 'GitHub: ',
+        desc: 'https://github.com/nikhilarokkam/WorkHive-Empowering-Independent-Professionals.git',
+      },
+    ],
+  },
+
+  {
+    id: 5,
+    img: Work6,
+    title: 'Expense Manager',
+    details: [
+      {
+        title: 'Project: ',
+        desc: 'Personal Expense Manager with Visual Analytics',
+      },
+      {
+        title: 'Client: ',
+        desc: 'Personal Project',
+      },
+      {
+        title: 'Language: ',
+        desc: 'ReactJS, Material-UI, Chart.js',
+      },
+      {
         title: 'Live: ',
         desc: 'https://courageous-pastelito-59f7eb.netlify.app/',
       },
     ],
   },
-
-  // {
-  //   id: 4,
-  //   img: Work4,
-  //   title: 'Puzzle Application',
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: 'Project : ',
-  //       desc: 'Interactive Puzzle',
-  //     },
-  //     {
-  //       icon: <FiUser />,
-  //       title: 'Client : ',
-  //       desc: 'Elitmus Pvt Limited',
-  //     },
-  //     {
-  //       icon: <FaCode />,
-  //       title: 'Language : ',
-  //       desc: 'JS, PHP and MySQL',
-  //     },
-  //     {
-  //       icon: <FiExternalLink />,
-  //       title: 'Preview : ',
-  //       desc: 'puzzleapp.infinityfreeapp.com',
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 5,
-  //   img: Work5,
-  //   title: 'Freelance Website',
-  //   details: [
-  //     {
-  //       title: 'Project : ',
-  //       desc: 'Website',
-  //     },
-  //     {
-  //       title: 'Client : ',
-  //       desc: 'College Project',
-  //     },
-  //     {
-  //       title: 'Language : ',
-  //       desc: 'MERN Stack',
-  //     },
-  //     {
-  //       title: 'GitHub : ',
-  //       desc: 'https://github.com/nikhilarokkam/WT-LAB-EXPERIMENTS',
-  //     },
-  //   ],
-  // },
-
-  // {
-  //   id: 6,
-  //   img: Work6,
-  //   title: 'Portfolio',
-  //   details: [
-  //     {
-  //       icon: <FiFileText />,
-  //       title: 'Project : ',
-  //       desc: 'Website',
-  //     },
-  //     {
-  //       icon: <FiUser />,
-  //       title: 'Client : ',
-  //       desc: 'Personal Website',
-  //     },
-  //     {
-  //       icon: <FaCode />,
-  //       title: 'Language : ',
-  //       desc: 'React',
-  //     },
-  //   ],
-  // },
 ];
 
 export const themes = [
