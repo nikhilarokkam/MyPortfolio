@@ -98,13 +98,13 @@ export const personalInfo = [
   {
     id: 7,
     title: 'Phone : ',
-    description: '+91 9949561678',
+    description: '9949561678',
   },
 
   {
     id: 8,
     title: 'Email : ',
-    description: 'rokkamnikhila2003@gmail.com',
+    description: 'rokkamnikhila.20.cse@anits.edu.in',
   },
 
   /*{
@@ -124,18 +124,18 @@ export const stats = [
   {
     id: 1,
     no: '2',
-    title: 'Years of <br /> Experience',
+    title: 'Internships',
   },
 
   {
     id: 2,
-    no: '5',
+    no: '6',
     title: 'Completed <br /> Projects',
   },
 
   {
     id: 3,
-    no: '3+',
+    no: '5',
     title: 'Certification <br /> Courses',
   },
 
@@ -147,7 +147,7 @@ export const stats = [
 ];
 
 export const resume = [
-  /*{
+  {
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
@@ -172,7 +172,7 @@ export const resume = [
     year: '2005 - 2013',
     title: 'Consultant <span> Videohive </span>',
     desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt',
-  },*/
+  },
 
   {
     id: 1,
@@ -234,8 +234,8 @@ export const resume = [
 export const skills = [
   {
     id: 1,
-    title: 'C',
-    percentage: '50',
+    title: 'Laravel',
+    percentage: '30',
   },
 
   {
