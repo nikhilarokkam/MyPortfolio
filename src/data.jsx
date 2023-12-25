@@ -151,28 +151,28 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2018 - PRESENT',
-    title: 'Web Developer <span> Envato </span>',
-    desc: 'Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore adipisicing elit,',
+    year: 'October 2023 - December 2023',
+    title: 'Web Developer Intern<span> SIRAOM PRIVATE LIMITED </span>',
+    desc: 'Demonstrated proficiency in Laravel, a widely-used PHP web application framework, to develop and enhance features, coupled with strong database management skills utilizing MySQL for efficient data storage and retrieval.',
   },
 
   {
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: '2013 - 2018',
-    title: 'UI/UX Designer <span> Themeforest </span>',
-    desc: 'Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol elit, tempor incididunt',
+    year: 'January 2024 - February 2024',
+    title: 'Full Stack Developer Intern <span> Vaultboard Consulting </span>',
+    desc: 'Wonderkids.club is a new-age ed-tech platform, which aims to revolutionize the ed-tech industry. My day-to-day responsibilities include developing, enhancing, and maintaining different features and modules and integrating them.',
   },
 
-  {
-    id: 3,
-    category: 'experience',
-    icon: <FaBriefcase />,
-    year: '2005 - 2013',
-    title: 'Consultant <span> Videohive </span>',
-    desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt',
-  },
+  // {
+  //   id: 3,
+  //   category: 'experience',
+  //   icon: <FaBriefcase />,
+  //   year: '2005 - 2013',
+  //   title: 'Consultant <span> Videohive </span>',
+  //   desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt',
+  // },
 
   {
     id: 1,
