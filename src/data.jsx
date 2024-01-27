@@ -161,8 +161,8 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'January 2024 - February 2024',
-    title: 'Full Stack Developer Intern <span> Vaultboard Consulting </span>',
-    desc: 'Wonderkids.club is a new-age ed-tech platform, which aims to revolutionize the ed-tech industry. My day-to-day responsibilities include developing, enhancing, and maintaining different features and modules and integrating them.',
+    title: 'Web Developer Intern <span> RA CAP (Investocon) </span>',
+    desc: 'Leading the development of a responsive website for RA CAP, a personal finance advisory firm, utilizing WordPress, HTML, and CSS, while gaining hands-on practical experience in web development.',
   },
 
   // {
