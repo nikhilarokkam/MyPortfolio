@@ -279,6 +279,11 @@ export const skills = [
     title: 'React',
     percentage: '35',
   },
+  {
+    id: 9,
+    title: 'WordPress',
+    percentage: '40',
+  },
 ];
 
 export const portfolio = [
