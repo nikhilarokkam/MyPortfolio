@@ -120,31 +120,31 @@ export const personalInfo = [
   },
 ];
 
-export const stats = [
-  {
-    id: 1,
-    no: '2',
-    title: 'Internships',
-  },
+// export const stats = [
+//   {
+//     id: 1,
+//     no: '2',
+//     title: 'Internships',
+//   },
 
-  {
-    id: 2,
-    no: '6',
-    title: 'Completed <br /> Projects',
-  },
+//   {
+//     id: 2,
+//     no: '6+',
+//     title: 'Completed <br /> Projects',
+//   },
 
-  {
-    id: 3,
-    no: '5',
-    title: 'Certification <br /> Courses',
-  },
+//   {
+//     id: 3,
+//     no: '5',
+//     title: 'Certification <br /> Courses',
+//   },
 
-  /*{
-    id: 4,
-    no: '53+',
-    title: ' Awards <br /> Won',
-  },*/
-];
+//   {
+//     id: 4,
+//     no: '1',
+//     title: ' Freelance <br /> Project',
+//   },
+// ];
 
 export const resume = [
   {
@@ -160,19 +160,19 @@ export const resume = [
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: 'January 2024 - February 2024',
-    title: 'Web Developer Intern <span> RA CAP (Investocon) </span>',
+    year: 'Freelancing',
+    title: 'Web Developer <span> RA CAP (Investocon) </span>',
     desc: 'Leading the development of a responsive website for RA CAP, a personal finance advisory firm, utilizing WordPress, HTML, and CSS, while gaining hands-on practical experience in web development.',
   },
 
-  // {
-  //   id: 3,
-  //   category: 'experience',
-  //   icon: <FaBriefcase />,
-  //   year: '2005 - 2013',
-  //   title: 'Consultant <span> Videohive </span>',
-  //   desc: 'Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur elit, sed do eiusmod tempor duntt',
-  // },
+  {
+    id: 3,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: 'February 2024',
+    title: 'Software <span> Developer </span>',
+    desc: 'Responsible for the development of Navigator and Trader Co-Pilot using Core PHP and Python, empowering clients with comprehensive ETRM solutions and augmented intelligence functionalities',
+  },
 
   {
     id: 1,
