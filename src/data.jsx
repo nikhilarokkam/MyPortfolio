@@ -174,35 +174,9 @@ export const resume = [
     desc: 'Responsible for the development of Navigator and Trader Co-Pilot using Core PHP and Python, empowering clients with comprehensive ETRM solutions and augmented intelligence functionalities',
   },
 
+  
   {
     id: 1,
-    category: 'certifications',
-    icon: <FaAward />,
-    year: 'Feb 1, 2023',
-    title: 'Python Programming',
-    desc: 'Issued by Codetantra',
-  },
-
-  {
-    id: 2,
-    category: 'certifications',
-    icon: <FaAward />,
-    year: 'Jan - Mar 2023',
-    title: 'DSA using Python <span>consolidated score: 66%</span>',
-    desc: 'Issued by NPTEL',
-  },
-
-  {
-    id: 3,
-    category: 'certifications',
-    icon: <FaAward />,
-    year: 'May 17, 2023',
-    title: 'Responsive Web Design',
-    desc: 'Issued by freeCodeCamp',
-  },
-
-  {
-    id: 4,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2020-2024',
@@ -211,7 +185,7 @@ export const resume = [
   },
 
   {
-    id: 5,
+    id: 2,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2018-2020',
@@ -220,7 +194,7 @@ export const resume = [
   },
 
   {
-    id: 6,
+    id: 3,
     category: 'education',
     icon: <FaGraduationCap />,
     year: '2018',
