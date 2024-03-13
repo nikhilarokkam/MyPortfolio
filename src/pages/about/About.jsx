@@ -54,14 +54,7 @@ const About = () => {
             <section className='resume'>
                 <h3 className='section__subtitle subtitle__center'>Certifications, Education & Experience</h3>
 
-                <div className='resume__container grid'>
-                    <div className='resume__data'>
-                        {resume.map((val)=>{
-                            if(val.category==='certifications'){
-                                return <ResumeItem key={val.id} {...val} />
-                            }
-                        })}
-                    </div>
+                
 
                     <div className='resume__data'>
                         {resume.map((val)=>{
