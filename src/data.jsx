@@ -120,31 +120,31 @@ export const personalInfo = [
   },
 ];
 
-// export const stats = [
-//   {
-//     id: 1,
-//     no: '2',
-//     title: 'Internships',
-//   },
+export const stats = [
+  {
+    id: 1,
+    no: '2',
+    title: 'Internships',
+  },
 
-//   {
-//     id: 2,
-//     no: '6+',
-//     title: 'Completed <br /> Projects',
-//   },
+  {
+    id: 2,
+    no: '6+',
+    title: 'Completed <br /> Projects',
+  },
 
-//   {
-//     id: 3,
-//     no: '5',
-//     title: 'Certification <br /> Courses',
-//   },
+  {
+    id: 3,
+    no: '5',
+    title: 'Certification <br /> Courses',
+  },
 
-//   {
-//     id: 4,
-//     no: '1',
-//     title: ' Freelance <br /> Project',
-//   },
-// ];
+  {
+    id: 4,
+    no: '3',
+    title: ' Freelance <br /> Projects',
+  },
+];
 
 export const resume = [
   {
