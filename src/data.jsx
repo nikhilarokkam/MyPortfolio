@@ -123,7 +123,7 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '2',
+    no: '3',
     title: 'Internships',
   },
 
@@ -160,8 +160,8 @@ export const resume = [
     id: 2,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: 'Freelancing',
-    title: 'Web Developer <span> RA CAP (Investocon) </span>',
+    year: 'January 2024 - March 2024',
+    title: 'Web Developer <span> RA CAP </span>',
     desc: 'Leading the development of a responsive website for RA CAP, a personal finance advisory firm, utilizing WordPress, HTML, and CSS, while gaining hands-on practical experience in web development.',
   },
 
@@ -169,8 +169,8 @@ export const resume = [
     id: 3,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: 'February 2024',
-    title: 'Software <span> Developer </span>',
+    year: 'January 2024 - March 2024',
+    title: 'Software Developer Intern<span> Skarvi Systems Limited </span>',
     desc: 'Responsible for the development of Navigator and Trader Co-Pilot using Core PHP and Python, empowering clients with comprehensive ETRM solutions and augmented intelligence functionalities',
   },
 
