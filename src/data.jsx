@@ -92,7 +92,7 @@ export const personalInfo = [
   {
     id: 6,
     title: 'Address : ',
-    description: 'D-No: 8-30-10/1, Santoshi Building, Thotapalem, Vizianagaram, Andhra Pradesh',
+    description: 'Vizianagaram, Andhra Pradesh',
   },
 
   {
