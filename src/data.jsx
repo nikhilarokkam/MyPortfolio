@@ -123,8 +123,8 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '3',
-    title: 'Internships',
+    no: '5',
+    title: 'Internships <br /> (Full Time)',
   },
 
   {
@@ -141,8 +141,8 @@ export const stats = [
 
   {
     id: 4,
-    no: '3',
-    title: ' Freelance <br /> Projects',
+    no: '1',
+    title: ' Freelance <br /> Project',
   },
 ];
 
@@ -152,8 +152,8 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'October 2023 - December 2023',
-    title: 'Web Developer Intern<span> SIRAOM PRIVATE LIMITED </span>',
-    desc: 'Demonstrated proficiency in Laravel, a widely-used PHP web application framework, to develop and enhance features, coupled with strong database management skills utilizing MySQL for efficient data storage and retrieval.',
+    title: 'Web Developer (Internship)<span> SIRAOM PRIVATE LIMITED </span>',
+    desc: 'Collaborated within a team to revamp the user interface (UI) of Wainsy`s e-commerce platform, enhancing user experience and visual appeal.',
   },
 
   {
@@ -161,8 +161,8 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'January 2024 - March 2024',
-    title: 'Web Developer <span> RA CAP </span>',
-    desc: 'Leading the development of a responsive website for RA CAP, a personal finance advisory firm, utilizing WordPress, HTML, and CSS, while gaining hands-on practical experience in web development.',
+    title: 'Web Developer (Internship)<span> RA CAP </span>',
+    desc: 'Led the development of a responsive WordPress website for RA CAP, improving their online presence.',
   },
 
   {
@@ -170,8 +170,26 @@ export const resume = [
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'January 2024 - March 2024',
-    title: 'Software Developer Intern<span> Skarvi Systems Limited </span>',
-    desc: 'Responsible for the development of Navigator and Trader Co-Pilot using Core PHP and Python, empowering clients with comprehensive ETRM solutions and augmented intelligence functionalities',
+    title: 'Software Developer (Internship)<span> Skarvi Systems Limited </span>',
+    desc: 'Contributed for the development of Navigator using Core PHP and MySQL, empowering clients with comprehensive ETRM solutions.',
+  },
+
+  {
+    id: 4,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: 'March 2024 - April 2024',
+    title: 'Web Developer (Internship)<span> BuzzBeamDigital </span>',
+    desc: 'Handled the management of WordPress websites and crafted pages using Elementor, ensuring smooth functionality and visually appealing design.',
+  },
+
+  {
+    id: 5,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: 'April 2024 - Present',
+    title: 'Full Stack Developer (Internship)<span> BuzzBeamDigital </span>',
+    desc: 'Currently implementing advanced web development methodologies with Laravel and MySQL to refine Tourist Tribe`s e-commerce infrastructure, ensuring seamless integration with AI-powered tour package arrangements and elevating user satisfaction through optimized performance.',
   },
 
   {
