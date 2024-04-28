@@ -151,7 +151,7 @@ export const resume = [
     id: 1,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: 'October 2023 - December 2023',
+    year: 'October 2023 - November 2023',
     title: 'Web Developer (Internship)<span> SIRAOM PRIVATE LIMITED </span>',
     desc: 'Collaborated within a team to revamp the user interface (UI) of Wainsy`s e-commerce platform, enhancing user experience and visual appeal.',
   },
