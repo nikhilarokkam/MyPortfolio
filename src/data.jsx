@@ -97,14 +97,14 @@ export const personalInfo = [
 
   {
     id: 7,
-    title: 'Phone : ',
-    description: '9949561678',
+    title: 'Languages : ',
+    description: 'English, Hindi, Telugu',
   },
 
   {
     id: 8,
-    title: 'Email : ',
-    description: 'rokkamnikhila.20.cse@anits.edu.in',
+    title: 'Phone : ',
+    description: '9949561678',
   },
 
   /*{
@@ -115,8 +115,8 @@ export const personalInfo = [
 
   {
     id: 10,
-    title: 'Languages : ',
-    description: 'English, Hindi, Telugu',
+    title: 'Email : ',
+    description: 'rokkamnikhila2003@gmail.com',
   },
 ];
 
