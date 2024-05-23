@@ -16,7 +16,8 @@ import Work3 from './assets/project-3.jpeg';
 import Work4 from './assets/project-4.jpeg';
 import Work5 from './assets/project-5.jpg';
 import Work6 from './assets/project-6.jpg';
-
+import Work7 from './assets/project-6.jpg';
+import Work8 from './assets/project-6.jpg';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
