@@ -443,7 +443,7 @@ export const portfolio = [
   },
 
   {
-    id: 5,
+    id: 6,
     img: Work6,
     title: 'Expense Manager',
     details: [
@@ -462,6 +462,54 @@ export const portfolio = [
       {
         title: 'Live: ',
         desc: 'https://courageous-pastelito-59f7eb.netlify.app/',
+      },
+    ],
+  },
+
+  {
+    id: 7,
+    img: Work7,
+    title: 'RA CAP',
+    details: [
+      {
+        title: 'Project : ',
+        desc: 'Finance Website',
+      },
+      {
+        title: 'Client : ',
+        desc: 'Freelance Project by RA CAP',
+      },
+      {
+        title: 'CMS : ',
+        desc: 'WordPress',
+      },
+      {
+        title: 'Link: ',
+        desc: 'https://racap.in/',
+      },
+    ],
+  },
+  
+  {
+    id: 8,
+    img: Work8,
+    title: 'Seizure Prediction',
+    details: [
+      {
+        title: 'Project : ',
+        desc: 'EEG-Based Epileptic Seizure Prediction using Ensemble Learning',
+      },
+      {
+        title: 'Client : ',
+        desc: 'Final Year Project',
+      },
+      {
+        title: 'Technologies : ',
+        desc: 'Python, Streamlit, Keras',
+      },
+      {
+        title: 'Github: ',
+        desc: 'https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING',
       },
     ],
   },
