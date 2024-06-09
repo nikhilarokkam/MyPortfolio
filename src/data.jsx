@@ -189,7 +189,7 @@ export const resume = [
     id: 5,
     category: 'experience',
     icon: <FaBriefcase />,
-    year: 'April 2024 - Present',
+    year: 'April 2024 - June 2024',
     title: 'Full Stack Developer (Internship)<span> TouristTribe </span>',
     desc: 'Currently implementing advanced web development methodologies with Laravel and MySQL to refine Tourist Tribe`s e-commerce infrastructure, ensuring seamless integration with AI-powered tour package arrangements and elevating user satisfaction through optimized performance.',
   },
