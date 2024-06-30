@@ -125,7 +125,7 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '5',
+    no: '6',
     title: 'Internships <br /> (Full Time)',
   },
 
