@@ -191,7 +191,7 @@ export const resume = [
     icon: <FaBriefcase />,
     year: 'April 2024 - June 2024',
     title: 'Full Stack Developer (Internship)<span> TouristTribe </span>',
-    desc: 'Implemented advanced web development methodologies with Laravel and MySQL to refine Tourist Tribe`s e-commerce infrastructure, ensuring seamless integration with AI-powered tour package arrangements and elevating user satisfaction through optimized performance.',
+    desc: 'Developed backend functionalities using Laravel and MySQL for TouristTribe`s online travel platform, focusing on trip package management and user experience enhancements',
   },
 
   {
