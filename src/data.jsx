@@ -195,6 +195,15 @@ export const resume = [
   },
 
   {
+    id: 6,
+    category: 'experience',
+    icon: <FaBriefcase />,
+    year: 'June 2024 - Present',
+    title: 'Web Developer (Full Time)<span> Web Around Technologies </span>',
+    desc: 'Designing and building website front-ends, implementing new features, and ensuring responsive and adaptive design. Conducting performance tests, troubleshooting content issues, and ensuring high performance and availability of the live website. Managing the technical aspects of the content management system, with a focus on consistent style across platforms and browsers. Utilizing front-end technologies and PHP backend development to build user interfaces and interact with RESTful APIs (JSON, XML).',
+  },
+
+  {
     id: 1,
     category: 'certifications',
     icon: <FaAward />,
