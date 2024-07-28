@@ -18,6 +18,7 @@ import Work5 from './assets/project-5.jpg';
 import Work6 from './assets/project-6.jpg';
 import Work7 from './assets/project-7.jpg';
 import Work8 from './assets/project-8.jpg';
+import Work9 from './assets/16605.jpg';
 
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
@@ -520,6 +521,29 @@ export const portfolio = [
       {
         title: 'Github: ',
         desc: 'https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING',
+      },
+    ],
+  },
+  {
+    id: 9,
+    img: Work9,
+    title: 'Ambience Mall',
+    details: [
+      {
+        title: 'Project : ',
+        desc: 'Shopping Mall Website',
+      },
+      {
+        title: 'Client : ',
+        desc: 'Ambience Malls (Gurugram, Vasant Kunj)',
+      },
+      {
+        title: 'CMS : ',
+        desc: 'WordPress',
+      },
+      {
+        title: 'Link : ',
+        desc: 'https://digitalpatang.in/am/',
       },
     ],
   },
