@@ -126,13 +126,13 @@ export const personalInfo = [
 export const stats = [
   {
     id: 1,
-    no: '6',
+    no: '4',
     title: 'Internships <br /> (Full Time)',
   },
 
   {
     id: 2,
-    no: '6+',
+    no: '10+',
     title: 'Completed <br /> Projects',
   },
 
@@ -144,8 +144,8 @@ export const stats = [
 
   {
     id: 4,
-    no: '1',
-    title: ' Freelance <br /> Project',
+    no: '2',
+    title: ' Freelance <br /> Projects',
   },
 ];
 
@@ -158,18 +158,9 @@ export const resume = [
     title: 'Web Developer (Internship)<span> SIRAOM PRIVATE LIMITED </span>',
     desc: 'Collaborated within a team to revamp the user interface (UI) of Wainsy`s e-commerce platform, enhancing user experience and visual appeal.',
   },
-
+  
   {
     id: 2,
-    category: 'experience',
-    icon: <FaBriefcase />,
-    year: 'January 2024 - March 2024',
-    title: 'Web Developer (Internship)<span> RA CAP </span>',
-    desc: 'Led the development of a responsive WordPress website for RA CAP, improving their online presence.',
-  },
-
-  {
-    id: 3,
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'January 2024 - March 2024',
@@ -178,7 +169,7 @@ export const resume = [
   },
 
   {
-    id: 4,
+    id: 3,
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'March 2024 - April 2024',
@@ -187,7 +178,7 @@ export const resume = [
   },
 
   {
-    id: 5,
+    id: 4,
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'April 2024 - June 2024',
@@ -196,7 +187,7 @@ export const resume = [
   },
 
   {
-    id: 6,
+    id: 5,
     category: 'experience',
     icon: <FaBriefcase />,
     year: 'June 2024 - Present',
