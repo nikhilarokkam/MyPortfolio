@@ -20,8 +20,6 @@ import Work7 from './assets/project-7.jpg';
 import Work8 from './assets/project-8.jpg';
 import Work9 from './assets/16605.jpg';
 
-
-
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
 import Theme3 from './assets/blueviolet.png';
@@ -66,48 +64,42 @@ export const links = [
 export const personalInfo = [
   {
     id: 1,
-    title: 'First Name : ',
-    description: 'Nikhila',
+    title: 'Full Name : ',
+    description: 'Rokkam Nikhila',
   },
-
+  
   {
     id: 2,
-    title: 'Last Name : ',
-    description: 'Rokkam',
+    title: 'Age : ',
+    description: '21 Years',
   },
 
   {
     id: 3,
-    title: 'Age : ',
-    description: '20 Years',
-  },
-
-  {
-    id: 4,
     title: 'Nationality : ',
     description: 'Indian',
   },
 
   {
-    id: 5,
+    id: 4,
     title: 'Freelance : ',
     description: 'Available',
   },
 
   {
-    id: 6,
+    id: 5,
     title: 'Address : ',
     description: 'Vizianagaram, AP',
   },
 
   {
-    id: 7,
+    id: 6,
     title: 'Languages : ',
     description: 'English, Hindi, Telugu',
   },
 
   {
-    id: 8,
+    id: 7,
     title: 'Phone : ',
     description: '9949561678',
   },
@@ -119,9 +111,9 @@ export const personalInfo = [
   },*/
 
   {
-    id: 9,
+    id: 8,
     title: 'Email : ',
-    description: 'rokkamnikhila2003@gmail.com',
+    description: 'rokkamnikhilarn2003@gmail.com',
   },
 ];
 
