@@ -319,7 +319,7 @@ export const portfolio = [
       },
       {
         icon: <FaCode />,
-        title: 'Language: ',
+        title: 'Technologies: ',
         desc: 'WordPress, HTML, CSS, JavaScript, PHP, MySQL',
       },
       {
