@@ -13,7 +13,7 @@ import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 import Work1 from './assets/Artboard-1.png';
 import Work2 from './assets/cropped-cropped-birthday-1.png';
 import Work3 from './assets/DBB-Logo-01.jpg';
-import Work4 from './assets/incorp-asia-logo.png';
+import Work4 from './assets/cropped-favicon-1.png';
 import Work5 from './assets/project-5.jpg';
 import Work6 from './assets/project-6.jpg';
 import Work7 from './assets/project-7.jpg';
