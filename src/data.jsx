@@ -461,33 +461,9 @@ export const portfolio = [
       },
     ],
   },
-
-  {
-    id: 7,
-    img: Work7,
-    title: 'RA CAP',
-    details: [
-      {
-        title: 'Project : ',
-        desc: 'Finance Website',
-      },
-      {
-        title: 'Client : ',
-        desc: 'Freelance Project by RA CAP',
-      },
-      {
-        title: 'CMS : ',
-        desc: 'WordPress',
-      },
-      {
-        title: 'Link: ',
-        desc: 'https://racap.in/',
-      },
-    ],
-  },
   
   {
-    id: 8,
+    id: 7,
     img: Work8,
     title: 'Seizure Prediction',
     details: [
@@ -506,29 +482,6 @@ export const portfolio = [
       {
         title: 'Github: ',
         desc: 'https://github.com/nikhilarokkam/EEG-BASED-EPILEPTIC-SEIZURE-PREDICTION-USING-ENSEMBLE-LEARNING',
-      },
-    ],
-  },
-  {
-    id: 9,
-    img: Work9,
-    title: 'Ambience Mall',
-    details: [
-      {
-        title: 'Project : ',
-        desc: 'Shopping Mall Website',
-      },
-      {
-        title: 'Client : ',
-        desc: 'Ambience Malls (Gurugram, Vasant Kunj)',
-      },
-      {
-        title: 'CMS : ',
-        desc: 'WordPress',
-      },
-      {
-        title: 'Link : ',
-        desc: 'https://digitalpatang.in/am/',
       },
     ],
   },
