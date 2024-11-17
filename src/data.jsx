@@ -389,27 +389,27 @@ export const portfolio = [
   {
     id: 4,
     img: Work4,
-    title: 'Puzzle Application',
+    title: 'InCorp Asia',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project : ',
-        desc: 'Interactive Puzzle Application',
+        desc: 'Business Expansion Expert in Vietnam',
       },
       {
         icon: <FiUser />,
         title: 'Client : ',
-        desc: 'Academic Project',
+        desc: 'Web Around Technologies',
       },
       {
         icon: <FaCode />,
         title: 'Language : ',
-        desc: 'HTML, CSS, JS, PHP, MySQL',
+        desc: 'WordPress, HTML, CSS, JS, PHP, MySQL',
       },
       {
         icon: <FiExternalLink />,
         title: 'Live: ',
-        desc: 'http://puzzleapp.infinityfreeapp.com/',
+        desc: 'https://vietnam.incorp.asia/',
       },
     ],
   },
