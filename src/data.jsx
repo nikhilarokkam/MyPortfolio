@@ -362,27 +362,27 @@ export const portfolio = [
   {
     id: 3,
     img: Work3,
-    title: 'MyShop Ecommerce Store',
+    title: 'DBB',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Ecommerce Store',
+        desc: 'Office and Commercial Interior Design Company',
       },
       {
         icon: <FiUser />,
         title: 'Client: ',
-        desc: 'Academic Project',
+        desc: 'Web Around Technologies',
       },
       {
         icon: <FaCode />,
-        title: 'Language: ',
-        desc: 'Flask, SQLAlchemy',
+        title: 'Technologies: ',
+        desc: 'WordPress, CSS',
       },
       {
         icon: <FiExternalLink />,
-        title: 'GitHub: ',
-        desc: 'https://github.com/nikhilarokkam/MyShop-Ecommerce-Store',
+        title: 'Link: ',
+        desc: 'https://www.dbb.com/',
       },
     ],
   },
