@@ -333,27 +333,27 @@ export const portfolio = [
   {
     id: 2,
     img: Work2,
-    title: 'Time Table Management System',
+    title: 'HALF A BAWA HOSPITALITY',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Automated University Time Table Management System',
+        desc: 'Curate and Operate Hospitality Spaces',
       },
       {
         icon: <FiUser />,
         title: 'Client: ',
-        desc: 'Academic Project',
+        desc: 'Freelance (Shobhit Chawla)',
       },
       {
         icon: <FaCode />,
-        title: 'Language: ',
-        desc: 'NodeJS, Express.js, MySQL',
+        title: 'Technologies: ',
+        desc: 'WordPress, HTML, CSS',
       },
       {
         icon: <FiExternalLink />,
-        title: 'GitHub: ',
-        desc: 'https://github.com/nikhilarokkam/Automated-University-TimeTable-Management-System',
+        title: 'Link: ',
+        desc: 'https://halfabawa.in/',
       },
     ],
   },
