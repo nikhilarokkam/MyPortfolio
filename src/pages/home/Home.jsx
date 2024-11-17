@@ -11,9 +11,9 @@ const Home = () => {
 
             <div className='home__content'>
                 <div className='home__data'>
-                    <h1 className='home__title'>
-                        <span>I'm Rokkam Nikhila</span>{'\n'}<h4>Full Stack PHP Developer</h4>
-                    </h1>
+                    <h2 className='home__title'>
+                        <span>I'm Rokkam Nikhila</span>{'\n'}Full Stack PHP Developer
+                    </h2>
 
                     <p className='home__description'>
                     I like to code things from scratch, and enjoy bringing ideas to life in the browser. Take a peek around, and let's embark on a web journey together! 🚀💻  
