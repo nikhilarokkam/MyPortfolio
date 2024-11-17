@@ -12,7 +12,7 @@ const Home = () => {
             <div className='home__content'>
                 <div className='home__data'>
                     <h1 className='home__title'>
-                        <span>I'm Rokkam Nikhila</span>{'\n'}Full Stack Developer
+                        <span>I'm Rokkam Nikhila</span>{'\n'}Full Stack PHP Developer
                     </h1>
 
                     <p className='home__description'>
