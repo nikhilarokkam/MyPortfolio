@@ -11,7 +11,7 @@ import {
 import { FiFileText, FiUser, FiExternalLink } from 'react-icons/fi';
 
 import Work1 from './assets/Artboard-1.png';
-import Work2 from './assets/project-2.jpg';
+import Work2 from './assets/cropped-cropped-birthday-1.png';
 import Work3 from './assets/project-3.jpeg';
 import Work4 from './assets/project-4.jpeg';
 import Work5 from './assets/project-5.jpg';
