@@ -4,6 +4,7 @@ import {Link} from 'react-router-dom';
 import {FaArrowRight} from 'react-icons/fa';
 import "./home.css";
 
+
 const Home = () => {
     return (
         <section className='home section grid'>
