@@ -285,7 +285,7 @@ export const skills = [
 
   {
     id: 7,
-    title: 'DSA using Python',
+    title: 'Data Structures',
     percentage: '50',
   },
 
@@ -305,27 +305,27 @@ export const portfolio = [
   {
     id: 1,
     img: Work1,
-    title: 'Mini Facebook',
+    title: 'Ambience Mall',
     details: [
       {
         icon: <FiFileText />,
         title: 'Project: ',
-        desc: 'Mini Facebook',
+        desc: 'One of the largest malls in India, spanning 1.8 million sq ft, home to luxury international brands and diverse dining options.',
       },
       {
         icon: <FiUser />,
         title: 'Client: ',
-        desc: 'Personal Project',
+        desc: 'Web Around Technologies',
       },
       {
         icon: <FaCode />,
         title: 'Language: ',
-        desc: 'HTML, CSS, JavaScript, PHP, MySQL',
+        desc: 'WordPress, HTML, CSS, JavaScript, PHP, MySQL',
       },
       {
         icon: <FiExternalLink />,
-        title: 'GitHub: ',
-        desc: 'https://github.com/nikhilarokkam/Mini-Facebook',
+        title: 'Link: ',
+        desc: 'http://35.154.133.93/',
       },
     ],
   },
