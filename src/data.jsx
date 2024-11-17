@@ -20,8 +20,6 @@ import Work7 from './assets/project-7.jpg';
 import Work8 from './assets/project-8.jpg';
 import Work9 from './assets/16605.jpg';
 
-
-
 import Theme1 from './assets/purple.png';
 import Theme2 from './assets/red.png';
 import Theme3 from './assets/blueviolet.png';
