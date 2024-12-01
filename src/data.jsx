@@ -138,7 +138,7 @@ export const stats = [
 
   {
     id: 4,
-    no: '2',
+    no: '3',
     title: ' Freelance <br /> Projects',
   },
 ];
